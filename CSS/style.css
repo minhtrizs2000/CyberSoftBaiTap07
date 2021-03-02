@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.item{
+    width: 200px;
+    height: 200px;
+
+    text-align: center;
+    line-height: 200px;
+
+    margin: 200px auto;
+}
+.item a{
+    display: block;
+    height: 100%;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 700;
+    color: #000000;
+}
+.item1{
+    background-color: #17a2b8;
+}
+.item2{
+    background-color: #ffc107;
+}
+.item3{
+    background-color: #28a745;
+}
